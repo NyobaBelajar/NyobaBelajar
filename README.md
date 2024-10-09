@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 `` " Belajarlah Untuk Memulai " ``
 
-`` " Bersikaplah Tangguh Saat Engkau Lemah, dan Bersikaplah Lemah Saat Engkau Tangguh " ``
-
-`` " Semakin luas pengetahuan seseorang tentang apa yang telah dilakukan, semakin besar pula kekuatannya untuk mengetahui apa yang harus dilakukan " ``
+`` " Pengetahuan tidak ada nilainya kecuali Anda mempraktikkannya " ``
