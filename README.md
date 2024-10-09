@@ -8,6 +8,8 @@ NyobaBelajar/NyobaBelajar is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-``Belajarlah Untuk Memulai``
+`` " Belajarlah Untuk Memulai " ``
 
-`` Bersikaplah Tangguh Saat Engkau Lemah, dan Bersikaplah Lemah Saat Engkau Tangguh ``
+`` " Bersikaplah Tangguh Saat Engkau Lemah, dan Bersikaplah Lemah Saat Engkau Tangguh " ``
+
+`` " Semakin luas pengetahuan seseorang tentang apa yang telah dilakukan, semakin besar pula kekuatannya untuk mengetahui apa yang harus dilakukan " ``
